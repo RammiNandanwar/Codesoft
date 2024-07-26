@@ -1,6 +1,6 @@
 # Codesoft_Task2
 
-This is a stylish and user-friendly landing page for a cake business called cupCAKE's, made with just HTML and CSS. The website is designed to look great on any device
+This is a stylish and user-friendly landing page for a cake business called cupCAKE's, using HTML and CSS. The website is designed to look great on any device.
 
 *Side Navigation, *Home Section, *About Section, *Products Section, *Contact Section
 
